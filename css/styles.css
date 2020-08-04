@@ -22,3 +22,12 @@ h1 {
     font-size: larger;
     text-transform: uppercase;
 }
+
+.main {
+    background-color: burlywood;
+}
+
+.lead {
+    text-align: center;
+    color: rgb(20, 26, 24);
+}
