@@ -1,0 +1,9 @@
+#pizza-pic {
+    width: 350px;
+}
+
+body {
+    background-image: url("../images/backimage.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
