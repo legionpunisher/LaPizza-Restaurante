@@ -7,3 +7,18 @@ body {
     background-repeat: no-repeat;
     background-size: cover;
 }
+
+h1 {
+    text-align: center;
+    font-weight: bold;
+    color: black;
+}
+
+.award {
+    text-align: center;
+    font-weight: bolder;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: brown;
+    font-size: larger;
+    text-transform: uppercase;
+}
